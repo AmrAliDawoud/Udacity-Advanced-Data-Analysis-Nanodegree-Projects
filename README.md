@@ -13,7 +13,7 @@ Learn the data analysis process of wrangling, exploring, analyzing, and communic
 
 You will choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
-[Investigate a dataset: Investigating No-show appointments Dataset](https://github.com/AmrAliDawoud/Udacity-Data-Analysis-with-Python-and-SQL-Nano-Degree-Projects-using-Python/blob/32de23cf9f47a076dff5c5389d42b89fb62b71d3/1\)%20Investigate%20a%20Dataset%20-Introduction%20to%20Data%20Analysis/investigate-a-dataset.ipynb)
+[Investigate a dataset: Investigating No-show appointments Dataset](https://github.com/AmrAliDawoud/Udacity-Advanced-Data-Analysis-Nanodegree-Projects/blob/32de23cf9f47a076dff5c5389d42b89fb62b71d3/1\)%20Investigate%20a%20Dataset%20-Introduction%20to%20Data%20Analysis/investigate-a-dataset.ipynb)
 
 
 ### Part 2: Practical Statistics
@@ -24,7 +24,7 @@ Learn how to apply inferential statistics and probability to real-world scenario
 
 Analyze the results of an A/B test run by an e-commerce website to decide whether the company should implement new page, keep the old page, or perhaps run the experiment longer to increase user conversion rate. 
 
-[Analyze A/B Test Results](https://github.com/AmrAliDawoud/Udacity-Data-Analysis-with-Python-and-SQL-Nano-Degree-Projects-using-Python/blob/32de23cf9f47a076dff5c5389d42b89fb62b71d3/2\)%20Analyze%20AB%20Test%20Results/Analyze_ab_test_results_notebook.ipynb)
+[Analyze A/B Test Results](https://github.com/AmrAliDawoud/Udacity-Advanced-Data-Analysis-Nanodegree-Projects/blob/32de23cf9f47a076dff5c5389d42b89fb62b71d3/2\)%20Analyze%20AB%20Test%20Results/Analyze_ab_test_results_notebook.ipynb)
 
 #### Selected topics of Practical Statistics
 - 2.1 Descriptive Statistics Part 1 and Part 2
@@ -50,6 +50,6 @@ Learn to apply visualization principles to the data analysis process. Explore da
 
 You will use Python’s data visualization tools to systematically explore a selected dataset for its properties and relationships between variables. Then, you will create a presentation that communicates your findings to others.
 
-[Communicate Data Findings](https://github.com/AmrAliDawoud/Udacity-Data-Analysis-with-Python-and-SQL-Nano-Degree-Projects-using-Python/blob/main/3\)%20Communicate%20Data%20Findings/Ford_GoBike_Data_Exploration_Part_1.ipynb)
+[Communicate Data Findings](https://github.com/AmrAliDawoud/Udacity-Advanced-Data-Analysis-Nanodegree-Projects/blob/main/3\)%20Communicate%20Data%20Findings/Ford_GoBike_Data_Exploration_Part_1.ipynb)
 
 ---
