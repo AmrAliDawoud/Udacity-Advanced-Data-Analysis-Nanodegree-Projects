@@ -50,6 +50,6 @@ Learn to apply visualization principles to the data analysis process. Explore da
 
 You will use Python’s data visualization tools to systematically explore a selected dataset for its properties and relationships between variables. Then, you will create a presentation that communicates your findings to others.
 
-[Communicate Data Findings](https://github.com/AmrAliDawoud/Udacity-Data-Analysis-with-Python-and-SQL-Nano-Degree-Projects-using-Python/blob/32de23cf9f47a076dff5c5389d42b89fb62b71d3/3)%20Communicate%20Data%20Findings/Ford_GoBike_Data_Exploration_Part_1.ipynb)
+[Communicate Data Findings](https://github.com/AmrAliDawoud/Udacity-Data-Analysis-with-Python-and-SQL-Nano-Degree-Projects-using-Python/blob/32de23cf9f47a076dff5c5389d42b89fb62b71d3/3%20Communicate%20Data%20Findings/Ford_GoBike_Data_Exploration_Part_1.ipynb)
 
 ---
