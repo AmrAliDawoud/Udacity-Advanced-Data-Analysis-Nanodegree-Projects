@@ -4,7 +4,7 @@
 
 ## Ford GoBike Dataset
 
-This data set includes information about 183412 individual rides made in a bike-sharing system covering the greater San Francisco Bay area. Before exploring the data, I removed the null values and the unrequired columns. I also converted the types of some columns and created new columns(age, start_hour).
+This dataset includes information about 183412 individual rides made in a bike-sharing system covering the greater San Francisco Bay area. Before exploring the data, I removed the null values and the unrequired columns. I also converted the types of some columns and created new columns(age, start_hour).
 
 
 ## Summary of Findings:
